@@ -1,9 +1,6 @@
----
-title: "Code Book"
-output: html_notebook
-editor_options: 
-  chunk_output_type: inline
----
+
+# **Code Book**
+
 
 ### Variables 
 ***
